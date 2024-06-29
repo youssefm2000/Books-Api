@@ -30,6 +30,8 @@
 
 ### Run All tests open a terminal on the project root path:
 1. Run API tests:
-` mvn clean test` 
-2. Generate reports:
-` allure serve`
+` open testng.xml`
+` right click `
+` choise Debug `
+3. Generate reports:
+` allure serve allure-results`
