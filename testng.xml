@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Order Books API">
+        <classes>
+            <class name="BooksTest.BooksTests">
+                <methods>
+                    <include name="login"/>
+                    <include name="getAllBooks"/>
+                    <include name="getBook"/>
+                    <include name="createOrder"/>
+                    <include name="getAllOrders"/>
+                    <include name="updateOrder"/>
+                    <include name="deleteOrder"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
