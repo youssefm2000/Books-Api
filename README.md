@@ -14,7 +14,7 @@
  
  * Allure Report
  
- ###  Project Design:
+ ### 🏗️ Project Design:
 
  *  Object Model design pattern
  
@@ -26,12 +26,20 @@
 * RestAssured 
 * Maven
 
- ###  Running Tests
+ ### 🚀 For Watching Running Test Cases:
+ https://www.youtube.com/watch?v=lQ10oJPN1Y0
 
-### Run All tests open a terminal on the project root path:
+### 🚀 Running Tests:
 1. Run API tests:
-` open testng.xml`
-` right click `
-` choise Debug `
-3. Generate reports:
-` allure serve allure-results`
+ * `Open The Project in intelliJ `
+ * `Go to TestNG.xml `
+ * `Right Click and Select Debug `
+ * to execute tests with report:
+ * ` allure serve allure-results `
+### 🗃 Generate reports:
+ * Allure Report will open automatically after Execution.
+<div align="center">
+      <h1>  📊 Allure Report 📊 </h1>
+  </div>
+    <img width="921" alt="allure" src="https://github.com/youssefm2000/Glamera_Task/assets/74185165/788c8570-1509-4eae-b566-44cf6d9e7c2e">
+  
